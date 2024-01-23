@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel Cerón Cosmo</h1>
 <h3 align="center">Soy Ing. en Electronica con una gran pasión en la robótica y el diseñó electrónico PCB</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/bFmhezk.mp4">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/f6/d3/06f6d36a42f6a59e299ec652a49287b1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmo125&label=Profile%20views&color=0e75b6&style=flat" alt="cosmo125" /> </p>
 
