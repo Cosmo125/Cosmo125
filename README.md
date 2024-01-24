@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on [Laboratorio de Sistemas Inteligentes](https://sistemasinteligentes.utp.ac.pa/)
 
-- 🌱 I’m currently learning **SQL and javascript**
+- 🌱 I’m currently learning **SQL and Javascript**
 
-- 👯 I’m looking to collaborate on **Embedded systems design**
+- 👯 I’m looking to collaborate on **Embedded Systems Design**
 
 - 📝 I regularly write articles on [https://ieeexplore.ieee.org/document/10328434](https://ieeexplore.ieee.org/document/10328434)
 
-- 💬 Ask me about **Radars and the IEEE**
+- 💬 Ask me about **Radars & the IEEE**
 
-- 📫 How to reach me **manuel.ceron@ieee.org**
+- 📫 You can reach me at **manuel.ceron@ieee.org**
 
 - ⚡ Fun fact **I love electronics**
 
