@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manuel Cerón Cosmo</h1>
-<h3 align="center">Soy Ing. en Electronica con una gran pasión en la robótica y el diseñó electrónico PCB</h3>
+<h3 align="center">I am an Electronic Engineer with a great passion for robotics and PCB electronic design.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/23335a137681793.620f4a02711c2.gif">
 
@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **SQL y javascript**
 
-- 👯 I’m looking to collaborate on **El diseño de sistemas embebidos**
+- 👯 I’m looking to collaborate on **Embedded systems design**
 
 - 📝 I regularly write articles on [https://ieeexplore.ieee.org/document/10328434](https://ieeexplore.ieee.org/document/10328434)
 
-- 💬 Ask me about **Radares y el IEEE**
+- 💬 Ask me about **Radars and the IEEE**
 
 - 📫 How to reach me **manuel.ceron@ieee.org**
 
-- ⚡ Fun fact **Amo la electronica**
+- ⚡ Fun fact **I love electronics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
