@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manuel Cerón Cosmo</h1>
+<h1 align="center">Hi 👋, I'm Manuel Cerón - Cosmo</h1>
 <h3 align="center">I am an Electronic Engineer with a great passion for robotics and PCB electronic design.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/23335a137681793.620f4a02711c2.gif">
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Laboratorio de Sistemas Inteligentes](https://sistemasinteligentes.utp.ac.pa/)
 
-- 🌱 I’m currently learning **SQL y javascript**
+- 🌱 I’m currently learning **SQL and javascript**
 
 - 👯 I’m looking to collaborate on **Embedded systems design**
 
